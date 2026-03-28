@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohamad Aboeisa]! 👋
+# Hi there, I'm Mohamad Aboeisa! 👋
 
 ### 🎓 Computer Science Student & Passionate Programmer
 I love building things that live on the internet and solving complex problems with code. Currently focusing on honing my skills and contributing to open-source projects.
@@ -24,12 +24,10 @@ I love building things that live on the internet and solving complex problems wi
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[mohamad-aboeisa]&show_icons=true&theme=radical)
 
----
-
 ### 🤝 Connect with me
 Let's build something cool together! 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamad-aboeisa-1a8749287)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-aboeisa-1a8749287)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.aboeisa2000@gmail.com)
 
 ---
