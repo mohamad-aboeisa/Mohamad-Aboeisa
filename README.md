@@ -27,7 +27,7 @@ I love building things that live on the internet and solving complex problems wi
 ### 🤝 Connect with me
 Let's build something cool together! 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-aboeisa-1a8749287)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-osama-aboeisa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.aboeisa2000@gmail.com)
 
 ---
