@@ -22,7 +22,7 @@ I love building things that live on the internet and solving complex problems wi
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[mohamad-aboeisa]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-aboeisa&show_icons=true&theme=radical)
 
 ### 🤝 Connect with me
 Let's build something cool together! 
