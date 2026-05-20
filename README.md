@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Computer Science Student | Front-End Developer in Progress
+### 💻 Computer Science Graduate 🎓 | Front-End Developer in Progress 🧑‍💻
 
 I’m passionate about building modern web applications and solving real-world problems with code. Currently focused on mastering **Front-End Development** and contributing to **Open Source**.
 
@@ -14,7 +14,7 @@ I’m passionate about building modern web applications and solving real-world p
 
 ## 🚀 About Me
 
-* 🎓 Computer Science student
+* 🎓 Computer Science Graduate
 * 🌱 Currently learning **React & Advanced JavaScript**
 * 🤝 Open to collaborating on **Open Source projects**
 * ⚽ Fun fact: I love playing football
